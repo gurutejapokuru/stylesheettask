@@ -1,0 +1,87 @@
+body{
+
+    width: 400px;
+    height: 600px;
+
+    }
+
+.main-container{
+    position: absolute;
+    top:50%;
+    left:50%;
+    width: 300px;
+    height: 500px;
+    background: #FFF;
+    border-color: #000;
+    border: 1px solid;
+    transform: translate(-50%,-50%);
+
+
+
+}
+
+
+h1{   
+   
+    font-family:Comfortaa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    padding: 10px;
+    color:black;
+   
+
+}
+p{
+    left:15px ;
+  
+    margin: 0px 0px 30px;
+    width:135px;
+    height:15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 13px;
+    padding-left: 10px;
+    
+    color: black;
+
+}
+.rectangle{
+  
+    margin:5px;
+    padding-left: 10px;
+   
+    width:250px;
+    left: 16px;
+    
+    top:187px;
+}
+.circle{
+    width:20px;
+    margin-left: 2%;
+    float: left;
+    padding-left: 15px;
+    
+}
+
+.username1{
+    
+    margin: 0px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 13px;
+    font-style: normal;
+    float: left;
+    padding-left: 10px;
+    color: #000000;
+}
+.username2{
+    
+    margin:5px;
+    left: 0px;
+    font-size: 11px;
+    font-style: normal;
+    font-family: Roboto;
+    color: rgba(0,0, 0, 0.8)
+}
